@@ -8,7 +8,7 @@
  scanf("%d",&a);
     if(a<0 || a>100)
         printf("请输入0——100的整数");
-    else if(100>a>90)
+    else if(a>90)
         printf("A");
     else if(a>80)
         printf("B");
