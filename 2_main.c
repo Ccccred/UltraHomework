@@ -2,7 +2,7 @@
 //3565530270@qq.com
 //刘栩池
 #include<stdio.h>
- main(){
+int main(){
  int a;
  printf("请输入你的成绩(0-100分)：");
  scanf("%d",&a);
