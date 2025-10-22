@@ -2,9 +2,9 @@
 //3565530270@qq.com
 //刘栩池
 #include<stdio.h>
- main(){
+ int main(){
     int a,b,c;
-    int input;
+    char input;
     printf("请输入两个整数：");
     scanf("%d %d",&a,&b);
     printf("加法为1\n");
