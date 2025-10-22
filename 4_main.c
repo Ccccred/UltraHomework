@@ -2,7 +2,7 @@
 //3565530270@qq.com
 //刘栩池
 #include<stdio.h>
- main(){
+ int main(){
     int a,b,c;
     printf("请输入三角形的三边长(整数)：");
     scanf("%d %d %d",&a,&b,&c);
