@@ -9,6 +9,6 @@
     if(a+b>c && a+c>b && b+c>a)
     printf("能构成三角形");
     else
-        printf("不能构成三角形");
+    {printf("不能构成三角形");}
         return 0;
  }
