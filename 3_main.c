@@ -4,7 +4,7 @@
 #include<stdio.h>
  int main(){
     int a,b,c;
-    char input;
+    int input;
     printf("请输入两个整数：");
     scanf("%d %d",&a,&b);
     printf("加法为1\n");
