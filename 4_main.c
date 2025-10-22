@@ -4,7 +4,7 @@
 #include<stdio.h>
  main(){
     int a,b,c;
-    printf("请输入三角形的三边长：");
+    printf("请输入三角形的三边长(整数)：");
     scanf("%d %d %d",&a,&b,&c);
     if(a+b>c && a+c>b && b+c>a)
     printf("能构成三角形");
