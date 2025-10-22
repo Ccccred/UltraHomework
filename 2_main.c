@@ -8,13 +8,13 @@ int main(){
  scanf("%d",&a);
     if(a<0 || a>100)
         printf("请输入0——100的整数");
-    else if(a>90)
+    else if(a>=90)
         printf("A");
-    else if(a>80)
+    else if(a>=80)
         printf("B");
-    else if(a>70)
+    else if(a>=70)
         printf("C");
-    else if(a>60)
+    else if(a>=60)
         printf("D");
     else
         printf("E");
